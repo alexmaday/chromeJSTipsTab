@@ -1,4 +1,4 @@
-[# JavaScript Tips Tab](https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132) - A Simple Chrome Extension
+# [JavaScript Tips Tab](https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132) - A Simple Chrome Extension
 
 This is a tutorial from CodeCademy's Medium Blog wherein we learn to build a simple chrome extension that provides us random tips on JavaScript in a new tab.
 
